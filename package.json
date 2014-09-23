@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/gumroad/hubot-asana.git"
+    "url": "git://github.com/hubot-scripts/hubot-asana"
   },
 
   "bugs": {
-    "url": "https://github.com/gumroad/hubot-asana/issues"
+    "url": "https://github.com/hubot-scripts/hubot-asana/issues"
   },
 
   "dependencies": {
