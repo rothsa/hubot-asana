@@ -1,8 +1,8 @@
 {
-  "name": "hubot-asana",
-  "description": "Add tasks to Asana using Hubot",
-  "version": "1.0.1",
-  "author": "Sahil Lavingia <sahil@gumroad.com>",
+  "name": "hubot-asana-listener",
+  "description": "Automatically Post tasks to Asana using Hubot listener",
+  "version": "0.0.0",
+  "author": "Sally Lehman <rothsa@gmail.com>",
   "license": "MIT",
   "keywords": [
     "hubot",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-asana"
+    "url": "git://github.com/rothsa/hubot-asana-listener"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-asana/issues"
+    "url": "https://github.com/rothsa/hubot-asana-listener/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6"
